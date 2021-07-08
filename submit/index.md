@@ -1,1 +1,1 @@
-# Page Coming Soon!
+# Photo requirements coming soon
