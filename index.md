@@ -1,4 +1,14 @@
-# Soon
-
-
-![](https://pbs.twimg.com/media/E5ulrTwVcAcBk4V?format=jpg&name=4096x4096)
+<!DOCTYPE html>
+<html>
+<body>
+    <script>
+      window.location.replace("https://twitter.com/BeamCars")    
+    </script>
+  </div>
+    <!DOCTYPE html>
+<html>
+<body>
+</body>
+</html>
+</body>
+</html>
