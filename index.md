@@ -1,14 +1,6 @@
-<!DOCTYPE html>
-<html>
-<body>
-    <script>
-      window.location.replace("https://twitter.com/BeamCars")    
-    </script>
-  </div>
-    <!DOCTYPE html>
-<html>
-<body>
-</body>
-</html>
-</body>
-</html>
+
+![](https://pbs.twimg.com/profile_banners/1412903399515770880/1625716968/1500x500)
+
+# BeamNG Cars
+
+## Photos of BeamNG cars
